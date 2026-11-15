@@ -6,7 +6,8 @@ When a player is revived or healed, they get a clean on-screen notification:
 
 > ✅ **You have been fully healed!**
 
-*(Add your screenshot here, e.g. `![Heal notification](images/healed.png)`)*
+<img width="405" height="101" alt="image" src="https://github.com/user-attachments/assets/7cc14556-7bcb-458d-81d9-db5af33e8a69" />
+
 
 ---
 
